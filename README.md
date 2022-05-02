@@ -1,18 +1,16 @@
 <div align="center">
 
-# ev-python
+# evpython
   <strong>The official 🐍 Python package for <a href="https://github.com/henrycunh/ev">ev</a></strong><br/>
   <sup>a tool for versioning, securing and easily sharing environment variables</sup>
-
 </div>
-
 
 <p align="center">
   <table>
     <tbody>
       <td align="center">
         <img width="2000" height="0"><br>
-        <a href="#initializing">initializing</a> • <a href="#commands">commands</a> • <a href="#using-in-your-project">using in your project</a><br>
+        <a href="#overview">overview</a> • <a href="#usage">usage</a><br>
         <img width="2000" height="0">
       </td>
     </tbody>
@@ -25,12 +23,12 @@
 - 🧑‍💻 **Easy sharing** - sharing the secret means sharing your variables
 - 🛠 **Great DX** - tools for easily managing variables  
 
-## Getting started
+## Overview
 This package exposes a *read-only* function for reading `ev` compatible variable files.
 
 To manage and secure your environment variables, you must use the official CLI.
 
-**[Read to `ev` documentation →]()**
+**[Read to `ev` documentation →](https://github.com/henrycunh/ev)**
 
 ## Usage
 ```bash
